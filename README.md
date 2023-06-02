@@ -1,7 +1,7 @@
 
 #
 <h3 align="center">
-  <img style="width:150px;margin:0 auto;" src=""><br><br>
+  <img style="width:150px;margin:0 auto;"><br><br>
   Lumina, Bot discord Multifonction<br><br>
 </h3>
 <p align="center">Par: <a href="https://github.com/1Sparrowhawk" target="_self">Sραrrσωhαωκ</a> & <a href="https://github.com/1Tsubasa" target="_self">Tsubasa</a></p><br>
