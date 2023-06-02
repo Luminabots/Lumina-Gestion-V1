@@ -36,6 +36,7 @@ Lumina est un bot discord Multifonction permettant à toutes les communautés d'
 <li>Nodejs (dernière version recommandée)
 <li>Installez les modules du bot
 <pre><code>npm i</code></pre></li>
+<li>Pensez à éditer les propriétaires du bot,sur config.json</li>
 <li>Démarrez le bot avec
 <pre><code>node .</code></pre></li>
 </ul>
